@@ -67,6 +67,8 @@ Phase 2.4 introduces the formal capability to **construct and evaluate candidate
 
 - **Repository Remote:** `https://github.com/radaikalam-lab/ResearchForge.git`
 - **Branch:** `master`
+- **Commit SHA:** `5ab2eec`
 - **Verification:** 203/203 unit & integration tests pass with zero warnings under `-W error`.
 - **Status:** `PHASE 2.4 FROZEN — GITHUB PUBLISHED`
+
 
